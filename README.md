@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm gyyzzz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Infrastructure+as+Code;Cloud+Native+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Site+Reliability+Engineer;Reliability+and+Scalability;Observability+Enthusiast" alt="Typing SVG" />
 
 </div>
 
@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps Engineer** passionate about automating infrastructure and building reliable systems. 
+I'm a **Site Reliability Engineer** focused on building and maintaining highly reliable, scalable systems.
 
-- 🔭 Working on cloud-native infrastructure and automation
-- 🌱 Exploring Kubernetes, Service Mesh, and GitOps
-- ☁️ Experienced with AWS, GCP, and multi-cloud architectures
-- 🤖 Building CI/CD pipelines and DevOps tooling
-- 💡 Solving infrastructure challenges with code
+- 🎯 Ensuring system reliability, availability, and performance
+- 📊 Implementing SLI/SLO/SLA metrics and error budgets
+- 🚨 Building observability platforms and incident response systems
+- ⚡ Automating toil reduction and operational efficiency
+- ☁️ Experienced with cloud-native architectures and Kubernetes
 
 ---
 
@@ -35,7 +35,7 @@ I'm a **DevOps Engineer** passionate about automating infrastructure and buildin
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
-### DevOps & Automation
+### SRE & Automation
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -84,10 +84,10 @@ I'm a **DevOps Engineer** passionate about automating infrastructure and buildin
 
 ### 🎯 2026 Goals
 
-- ☁️ Master advanced Kubernetes patterns
-- 🔄 Implement GitOps workflows
-- 🚀 Contribute to open-source DevOps tools
-- 📚 Share knowledge through blog posts and documentation
+- 📈 Master advanced observability and monitoring patterns
+- 🔄 Implement robust SRE practices and error budgets
+- 🚀 Contribute to open-source SRE tools
+- 📚 Share knowledge through blog posts and runbooks
 
 </div>
 
