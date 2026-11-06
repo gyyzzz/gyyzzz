@@ -2,7 +2,7 @@
 
 # Hi there! 👋 I'm gyyzzz
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Site+Reliability+Engineer;Reliability+and+Scalability;Observability+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=你+好+，+世+界;" alt="Typing SVG" />
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **Site Reliability Engineer** focused on building and maintaining highly reliable, scalable systems.
+I'm a focused on building and maintaining highly reliable, scalable systems.
 
 - 🎯 Ensuring system reliability, availability, and performance
 - 📊 Implementing SLI/SLO/SLA metrics and error budgets
